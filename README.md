@@ -13,7 +13,7 @@ This repo contains a Jupyter Notebook to adapt the method introduced in Lin, Kon
 This project was inspired by the work "Using Causal Inference to Explore Government Policy Impact on Computer Usage" by Lechuan Wang and Mingjia Zhu, with advisors Alex Cloninger, Babak Salimi, and Julien Sebot. The end goal (as discussed in Section V) is to detect change points in a time series of transition matrices (from the compute data referenced in this work) using graph laplacians and matrix logs and determine how these change points correspond to events before, during, and after the COVID-19 pandemic.
 
 ## Main Reference
-Method adapted for calculcating distances time series of matrices:
+Method adapted for calculcating distances for time series of matrices:
 - Lin, Zhenhua, Dehan Kong, and Qiang Sun. "Modeling Symmetric Positive Definite Matrices with An Application to Functional Brain Connectivity." arXiv preprint arXiv:1907.03385 (2019). https://arxiv.org/pdf/1907.03385.pdf
   - Method in Sections 3.2 and 3.3
 
